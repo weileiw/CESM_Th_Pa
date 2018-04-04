@@ -1,8 +1,10 @@
 # CESM_Th_Pa
 experiment log for CESM thorium protactinium model
 
-
-
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% scavenge equation
+% Th230_scavenge = parm_Th230_scavenge * sinking_mass * Th230_loc * yps
+%
 
 ## $$$$$ 1st run
 Run thorium and practinium model after editting Keith's original code.
